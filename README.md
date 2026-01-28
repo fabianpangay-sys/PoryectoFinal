@@ -40,7 +40,7 @@ Instalación
 
 Clona el repositorio y accede al directorio del proyecto:
 
-git clone https://github.com/tu-usuario/gesinfra-web.git
+git clone https://github.com/fabianpangay-sys/PoryectoFinal
 cd gesinfra-web
 
 
